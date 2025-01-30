@@ -1,7 +1,7 @@
 <h1 align="center"><br> Eu sou o Thiago Elias e sou formada em Ciência da Computação pela Universidade de Brasília (UnB)</h1>
 
-- Meu Meu trabalho de conclusão de curso teve com foco **Banco de Dados**.
-- Atualmente estudo **Processamento de Linguagem Natural**.
+- Meu trabalho de conclusão de curso teve com foco **Banco de Dados**.
+- Atualmente estou numa Pós-graduação em **Especialização em Governança de Tecnologia da Informação**.
 
 ## 🛠 Recursos que utilizo
 
